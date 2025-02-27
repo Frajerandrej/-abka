@@ -1,0 +1,47 @@
+#pozadi{    
+width: 1000px;
+height: 800px;
+z-index: 3;
+top: 0px;
+position: absolute;
+}
+img{
+position: absolute;
+z-index: 3;
+width: 10%;
+}
+
+#lekninjedna{
+    left: 500px;
+    top: 400px;
+    rotate: 45deg;
+    position: absolute;
+}
+
+#leknindva{
+    rotate: 250deg;
+    left: 300px;
+    top: 580px;
+    position: absolute;
+}
+
+#leknintri{
+    top: 250px;
+    left:250px;
+    z-index: 3;
+    rotate: 190deg;
+    position: absolute;
+}
+#trava{
+    position: absolute;
+    z-index: 1;
+    rotate: 90deg;
+    width: 100%;
+}
+#zabka{
+    z-index: 6;
+    top: 850px;
+    left: 200px;
+    width: 15%;
+    position: absolute;
+}
